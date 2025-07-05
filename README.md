@@ -119,7 +119,7 @@ results = model.predict(source=frame, conf=0.75, verbose=False)
 ## 📁 Project Structure
 
 ```
-eagle-vision/
+pizza store violation/
 ├── detection_service/
 │   ├── main.py              # Detection service entry point
 │   ├── consumer.py          # RabbitMQ consumer and violation logic
